@@ -93,4 +93,4 @@ do feedback, o vercel que hospeda o módulo backend e o railway que hospeda o ba
 
 
 
-Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcos-vinicius-8841a1171/)
+Feito com ❤️ por Marcos Vinicius 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcos-vinicius-8841a1171/)
